@@ -2,8 +2,8 @@ menu = {
     "Samosa": 15,
     "Dosa": 40,
     "Tea": 10,
-    "Coffee":20,
     "Idli": 30,
+    "Coffee": 20
 }
 
 print("Welcome to ACE Canteen!")
