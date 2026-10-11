@@ -1,7 +1,7 @@
 menu = {
     "Samosa": 15,
     "Dosa": 40,
-    "Tea": 10,
+    "Tea": 15,
     "Idli": 30,
     "Coffee": 20,
     "Combo Meal": 60,
