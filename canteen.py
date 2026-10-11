@@ -5,6 +5,7 @@ menu = {
     "Idli": 30,
     "Coffee": 20,
     "Combo Meal": 60,
+    "Lemon Soda": 25
 }
 
 print("Welcome to ACE Canteen!")
